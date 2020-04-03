@@ -1,0 +1,14 @@
+﻿  Cube.cpp
+GLUTCallbacks.obj : error LNK2001: unresolved external symbol __imp_glutTimerFunc
+GLUTCallbacks.obj : error LNK2001: unresolved external symbol __imp_glutGet
+HelloGL.obj : error LNK2001: unresolved external symbol __imp___glutCreateWindowWithExit
+HelloGL.obj : error LNK2001: unresolved external symbol __imp___glutInitWithExit
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutPostRedisplay
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutKeyboardFunc
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutInitDisplayMode
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutDisplayFunc
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutMainLoop
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowPosition
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutInitWindowSize
+HelloGL.obj : error LNK2001: unresolved external symbol __imp_glutSwapBuffers
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\x64\Release\HelloGL.exe : fatal error LNK1120: 12 unresolved externals

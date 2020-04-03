@@ -1,0 +1,19 @@
+﻿  Cube.cpp
+  GLUTCallbacks.cpp
+  HelloGL.cpp
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(10,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(106,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(107,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(108,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(110,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(111,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(112,29): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(114,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(115,30): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\HelloGL\HelloGL.cpp(116,30): warning C4305: '=': truncation from 'double' to 'float'
+  main.cpp
+  MeshLoader.cpp
+  SceneObject.cpp
+  Texture2D.cpp
+  Generating Code...
+  HelloGL.vcxproj -> C:\Users\Tiger\OneDrive\Desktop\HelloGL\HelloGL\Debug\HelloGL.exe
